@@ -1,0 +1,14 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+
+torch
+torchvision
+streamlit
+open_clip_torch
+faiss-cpu
+pandas
+numpy
+scikit-learn
+pillow
+google-genai
+anthropic

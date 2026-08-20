@@ -1,0 +1,16 @@
+torch
+torchvision
+timm
+open_clip_torch
+faiss-cpu
+pandas
+numpy
+scikit-learn
+pillow
+streamlit
+anthropic
+google-genai
+grad-cam
+matplotlib
+seaborn
+tqdm

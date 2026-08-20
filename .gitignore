@@ -1,0 +1,18 @@
+data/raw/
+data/splits/*.csv
+models/*.pt
+index/*.bin
+index/*.csv
+archive/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+results/
+# space/ is the deployable bundle and IS committed (Streamlit Cloud builds from it).
+space/**/__pycache__/
+
+# Claude Code local tooling config (kept locally, not shared)
+.claude/

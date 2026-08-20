@@ -1,0 +1,8 @@
+image_id,lesion_id,dx,label,image_path
+ISIC_0029360,HAM_0000549,akiec,malignant,assets/examples/ISIC_0029360.jpg
+ISIC_0024590,HAM_0004511,bcc,malignant,assets/examples/ISIC_0024590.jpg
+ISIC_0025767,HAM_0001949,bkl,benign,assets/examples/ISIC_0025767.jpg
+ISIC_0030021,HAM_0001164,df,benign,assets/examples/ISIC_0030021.jpg
+ISIC_0025451,HAM_0002143,mel,malignant,assets/examples/ISIC_0025451.jpg
+ISIC_0024693,HAM_0000559,nv,benign,assets/examples/ISIC_0024693.jpg
+ISIC_0028163,HAM_0006617,vasc,benign,assets/examples/ISIC_0028163.jpg

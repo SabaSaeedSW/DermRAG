@@ -1,0 +1,14 @@
+{
+  "threshold": 0.33,
+  "selected_on": "validation",
+  "criterion": "max precision subject to malignant recall >= 0.9",
+  "validation_metrics": {
+    "threshold": 0.33,
+    "accuracy": 0.8031599736668861,
+    "malignant_recall": 0.9028776978417267,
+    "malignant_precision": 0.47992351816443596,
+    "malignant_f1": 0.6267166042446941
+  },
+  "validation_auc": 0.9236169485040493,
+  "saved_at": "2026-08-19T17:25:21.835342"
+}
